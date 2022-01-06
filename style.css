@@ -103,7 +103,7 @@ body{
 }
 .develop-area{
     width: 40%;
-    padding-left: 10%;
+    padding-left: 8%;
     padding-bottom: 55px;
     margin-bottom: 10px;
 }
@@ -137,6 +137,12 @@ body{
     background-position: right;
     background-repeat: no-repeat;
 }
+.contact-area img{
+    width: 45%;
+}
+.contact-item{
+    text-align: center;
+}
 
 footer{
     text-align: center;
@@ -144,7 +150,6 @@ footer{
     background-color: black;
     color: white;
 }
-
 footer h1{
     font-family: 'Orelega One', cursive;;
 }
