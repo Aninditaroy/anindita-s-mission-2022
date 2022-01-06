@@ -3,7 +3,7 @@ body{
     margin: 0;
 }
 .section-div{
-    width: 80%;
+    width: 40%;
     padding-left: 10%;
     margin-bottom: 10px;
 }
@@ -43,7 +43,7 @@ body{
 }
 .mymission{
     padding-left: 8%;
-    margin-bottom: 20px;
+    margin-bottom: 60px;
 }
 .mymission h1{
     text-align: center;
@@ -90,5 +90,15 @@ body{
     background-image: url(images/shapes/shape-4.png);
     background-size: 10%;
     background-position: right;
+    background-repeat: no-repeat;
+}
+#section-two-header-id{
+    font-weight: bold;
+    font-size: 50px;
+}
+.bg-img-three{
+    background-image: url(images/shapes/shape-4.png);
+    background-size: 10%;
+    background-position: left;
     background-repeat: no-repeat;
 }
