@@ -103,6 +103,7 @@ body{
     padding-left: 10%;
     padding-bottom: 55px;
     margin-bottom: 10px;
+    margin-right: 3%;
 }
 .develop-area p{
     padding-bottom: 10px;
@@ -116,5 +117,22 @@ body{
     background-position: left;
     background-repeat: no-repeat;
 }
-
+.community-area{
+    width: 40%;
+    padding-left: 10%;
+    margin-bottom: 10px;
+    padding-bottom: 55px;
+}
+.community-area p{
+    padding-bottom: 10px;
+}
+.community-area img{
+    width: 75%;
+}
+.bg-img-four{
+    background-image: url(images/shapes/shape-4.png);
+    background-size: 10%;
+    background-position: right;
+    background-repeat: no-repeat;
+}
 
