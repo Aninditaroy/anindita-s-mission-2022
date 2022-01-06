@@ -56,7 +56,7 @@ body{
 }
 #mission-div{
     border: 10px pink;
-    border-radius: 15px;
+    border-radius: 20px;
     background-color: pink;
     padding: 10px;
 }
@@ -66,7 +66,7 @@ body{
 }
 #vission-div{
     border: 10px powderblue;
-    border-radius: 15px;
+    border-radius: 20px;
     background-color: powderblue;
     padding: 10px;
 }
@@ -76,7 +76,7 @@ body{
 }
 #goal-div{
     border: 10px cadetblue;
-    border-radius: 15px;
+    border-radius: 20px;
     background-color: cadetblue;
     padding: 10px;
 }
@@ -105,7 +105,7 @@ body{
     padding-bottom: 10px;
 }
 .develop-area img{
-    width: 75%;
+    width: 70%;
 }
 .bg-img-three{
     background-image: url(images/shapes/shape-4.png);
