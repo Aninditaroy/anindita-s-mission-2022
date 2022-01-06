@@ -1,6 +1,7 @@
 body{
     font-family: 'Lexend Deca', sans-serif;
     margin: 0;
+    font-size: 25px;
 }
 .section-div{
     width: 40%;
@@ -11,20 +12,16 @@ body{
     padding-bottom: 10px;
 }
 #section-one-header-id{
-    font-weight: bold;
-    font-size: 50px;
     border-left: 5px solid skyblue;
     padding: 10px;
 }
 .anchor-tag{
     text-decoration: none;
     background-image: linear-gradient(skyblue, skyblue);
-    padding: 10px;
+    padding: 10px 30px;
     color:white;
-    border-radius: 5px;
-    font-size: 13px;
+    border-radius: 6px;
     text-align: center;
-    margin-bottom: 10%;
 }
 .flexible-container{
     display: flex;
@@ -96,14 +93,13 @@ body{
 
 #section-two-header-id{
     font-weight: bold;
-    font-size: 35px;
+    font-size: 45px;
 }
 .develop-area{
     width: 40%;
     padding-left: 10%;
     padding-bottom: 55px;
     margin-bottom: 10px;
-    margin-right: 3%;
 }
 .develop-area p{
     padding-bottom: 10px;
