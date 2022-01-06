@@ -5,10 +5,10 @@ body{
 .section-div{
     width: 40%;
     padding-left: 10%;
-    margin-bottom: 10px;
+    padding-bottom: 10px;
 }
 .section-div p{
-    padding-bottom: 5px;
+    padding-bottom: 10px;
 }
 #section-one-header-id{
     font-weight: bold;
@@ -24,6 +24,7 @@ body{
     border-radius: 5px;
     font-size: 13px;
     text-align: center;
+    margin-bottom: 10%;
 }
 .flexible-container{
     display: flex;
@@ -92,9 +93,22 @@ body{
     background-position: right;
     background-repeat: no-repeat;
 }
+
 #section-two-header-id{
     font-weight: bold;
-    font-size: 50px;
+    font-size: 35px;
+}
+.develop-area{
+    width: 40%;
+    padding-left: 10%;
+    padding-bottom: 55px;
+    margin-bottom: 10px;
+}
+.develop-area p{
+    padding-bottom: 10px;
+}
+.develop-area img{
+    width: 75%;
 }
 .bg-img-three{
     background-image: url(images/shapes/shape-4.png);
@@ -102,3 +116,5 @@ body{
     background-position: left;
     background-repeat: no-repeat;
 }
+
+
