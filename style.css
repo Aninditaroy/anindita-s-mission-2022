@@ -137,13 +137,27 @@ body{
     background-position: right;
     background-repeat: no-repeat;
 }
-.contact-area img{
-    width: 45%;
+.contact-div{
+    width: 70%;
+    padding-left: 10%;
+    padding-bottom: 10px;
+}
+.contact-div img{
+    width: 80%;
+}
+.contact-area{
+    padding-right: 8%;
+    padding-bottom: 55px;
+    margin-bottom: 10px;
 }
 .contact-item{
+    font-weight: bold;
+    font-size: 45px;
     text-align: center;
 }
-
+#icon-size{
+    width: 5%;
+}
 footer{
     text-align: center;
     border: 2px solid black;
